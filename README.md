@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello, I'm Niko 👋
 
-<!--
-**NikoHems/NikoHems** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm deeply passionate about Data & Start-ups, always eager to connect with like-minded individuals and explore innovative ideas.
 
-Here are some ideas to get you started:
+🌍 **Living in:** Lisbon, Portugal
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 **Studying:** Master in Management, Business and Data Analytics at Nova SBE
+
+I'm always trying to leverage data in making informed decisions and driving growth in the start-up ecosystem. 
+
+🔗 **Find me online:**
+- [LinkedIn](https://www.linkedin.com/in/niko-hems/)
+- [Website](https://nikohems.webflow.io/)
+- [Twitter](https://twitter.com/NikoTHems)
+
