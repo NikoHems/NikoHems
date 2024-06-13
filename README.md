@@ -1,10 +1,10 @@
 ### Hello, I'm Niko 👋
 
-I'm deeply passionate about Data & Start-ups, always eager to connect with like-minded individuals and explore innovative ideas.
+I'm deeply passionate about Data, Machine Learning & Start-ups, always eager to connect with like-minded individuals and explore innovative ideas.
 
 🌍 **Living in:** Lisbon, Portugal
 
-📚 **Studying:** Master in Management, Business and Data Analytics at Nova SBE
+📚 **Studying:** Master in Management, Business and Data Analytics at Nova SBE; Computer Science Exchange @ UC Berkeley 
 
 I'm always trying to leverage data in making informed decisions and driving growth in the start-up ecosystem.
 
@@ -15,19 +15,21 @@ I'm always trying to leverage data in making informed decisions and driving grow
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikoHems&layout=compact&theme=radical)
 
 ## Skills
-![Python](https://img.shields.io/badge/Python-Intermediate-yellow)
-![SQL](https://img.shields.io/badge/SQL-Advanced-blue)
-![MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-green)
-![NoSQL](https://img.shields.io/badge/NoSQL-Intermediate-orange)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Intermediate-blue)
-![PyTorch](https://img.shields.io/badge/PyTorch-Intermediate-red)
-![Pandas](https://img.shields.io/badge/Pandas-Advanced-yellow)
-![NumPy](https://img.shields.io/badge/NumPy-Intermediate-blue)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Intermediate-orange)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Intermediate-green)
-![Seaborn](https://img.shields.io/badge/Seaborn-Intermediate-blue)
-![Tableau](https://img.shields.io/badge/Tableau-Advanced-purple)
-![LaTeX](https://img.shields.io/badge/LaTeX-Intermediate-orange)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/NoSQL-E34F26?style=for-the-badge&logo=nosql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-007ACC?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
+</p>
 
 ## Find me online:
 - [LinkedIn](https://www.linkedin.com/in/niko-hems/)
