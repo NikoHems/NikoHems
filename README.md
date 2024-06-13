@@ -38,9 +38,17 @@ I'm always trying to leverage data in making informed decisions and driving grow
   <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
 </p>
 
-## Find me online:
-- [LinkedIn](https://www.linkedin.com/in/niko-hems/)
-- [Website](https://nikohems.webflow.io/)
-- [Twitter](https://twitter.com/NikoTHems)
+## Find me online
+<p align="left">
+  <a href="https://www.linkedin.com/in/niko-hems/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://nikohems.webflow.io/" target="blank">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=webflow&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/NikoTHems" target="blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</p>
 
 ![Profile GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
