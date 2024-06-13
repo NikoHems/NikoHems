@@ -8,11 +8,10 @@ I'm deeply passionate about Data & Start-ups, always eager to connect with like-
 
 I'm always trying to leverage data in making informed decisions and driving growth in the start-up ecosystem.
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=NikoHems.NikoHems)
+![Profile views](https://komarev.com/ghpvc/?username=NikoHems&style=flat-square)
 ![GitHub followers](https://img.shields.io/github/followers/NikoHems?label=Follow&style=social)
 
-## GitHub Stats
-![Niko's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikoHems&show_icons=true&theme=radical)
+## Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikoHems&layout=compact&theme=radical)
 
 ## Skills
