@@ -43,7 +43,7 @@ I'm always trying to leverage data in making informed decisions and driving grow
   <a href="https://www.linkedin.com/in/niko-hems/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://nikohems.webflow.io/" target="blank">
+  <a href="https://nikohems.github.io/" target="blank">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=webflow&logoColor=white" />
   </a>
   <a href="https://twitter.com/NikoTHems" target="blank">
