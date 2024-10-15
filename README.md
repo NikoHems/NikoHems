@@ -1,10 +1,10 @@
 ### Hello, I'm Niko 👋
 
-I'm deeply passionate about Data, Machine Learning & Start-ups, always eager to connect with like-minded individuals and explore innovative ideas.
+I'm deeply passionate about Health, Longevity Data Science & Start-ups, always eager to connect with like-minded individuals and explore innovative ideas.
 
-🌍 **Living in:** Lisbon, Portugal
+🌍 **Living in:** Berkeley, CA
 
-📚 **Studying:** Master in Management, Business and Data Analytics at Nova SBE; Computer Science Exchange @ UC Berkeley 
+📚 **Studying:** Master in Management, Business and Data Analytics at Nova SBE; Business & Computer Science Exchange @ UC Berkeley 
 
 I'm always trying to leverage data in making informed decisions and driving growth in the start-up ecosystem.
 
