@@ -1,6 +1,6 @@
 ### Hello, I'm Niko 👋
 
-I'm deeply passionate about Health, Longevity Data Science & Start-ups, always eager to connect with like-minded individuals and explore innovative ideas.
+I'm deeply passionate about Health, Longevity, Data Science & Start-ups, always eager to connect with like-minded individuals and explore innovative ideas.
 
 🌍 **Living in:** Berkeley, CA
 
